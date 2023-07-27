@@ -22,12 +22,6 @@
 
 - ⚡ Fun fact **Ctrl C, Ctrl V, and Ctrl Z have saved more lives than Batman.**
 
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad24680" alt="mohammad24680" /></a> </p>
-
-<!-- ![a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525](https://user-images.githubusercontent.com/109727844/208532902-bd867df1-88a8-4410-90c4-74d054fd1bc2.gif) -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bagheri24680" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bagheri24680" height="30" width="40" /></a>
