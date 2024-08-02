@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/bagheri24680" target="blank"><img src="https://img.shields.io/twitter/follow/bagheri24680?logo=twitter&style=for-the-badge" alt="bagheri24680" /></a> </p>
 
-- 🔭 I’m currently working **at Haytech**
+- 🔭 I’m currently working **at Hassin Group (Maani)**
 
 - 🌱 I’m currently learning **Nextjs**
 
